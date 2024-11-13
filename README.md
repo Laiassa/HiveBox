@@ -11,4 +11,14 @@ The goal of this project is to build a scalable RESTful API around openSenseMap 
 You can get senseBox IDs by checking the openSenseMap website. Use 3 senseBox IDs close to each other (you can use this one 5eba5fbad46fb8001b799786 as starting point). Just copy the IDs, you will need them in the next steps.
 
 ### Phase 1:
-Software Project managment
+Software Project managment (SCRUM)
+
+I will define a project flow, GitHUB flow because this is a one person project for the moment, and its compatible with SCRUM projects:
+- branches will be made per features
+
+The main branch will have versioning. The version number is incremented when:
+
+- Major: The software undergoes significant changes and improvements. E.g., version 4.0 to version 5.0.
+- Minor: The software has minor changes and/or bug fixes. E.g., version 4.1 to version 4.2.
+- Patch: A small fix is applied to the software, with minimal changes overall. E.g., version 3.1.2 to version 3.1.3.
+
